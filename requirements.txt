@@ -21,6 +21,6 @@ ruff==0.0.263
 six==1.16.0
 termcolor==2.3.0
 tomli==2.0.1
-tqdm==4.65.0
+tqdm==4.66.3
 urllib3==1.26.15
 yarl==1.9.2
